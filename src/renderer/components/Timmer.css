@@ -1,0 +1,30 @@
+.main_div{
+    width: auto;
+    background-color: green;
+    padding: 8px;
+    border-radius: 5px;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    cursor: alias;
+    position: absolute;
+    z-index: 10;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.time_div{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.time_div span{
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    padding: 4px;
+    width: 40px;
+    height: 35px;
+}
