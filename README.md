@@ -17,5 +17,5 @@ To see the code or to run the project flow the steps
    2. The main.ts file is the responsible for create the electron app and to connect the electron into react.
    3. renderer:- renderer ==> component ===> Timmer.js
    4. The Timmer.jsfile is the responsible for rendering the react component with electron component. This is the pure react functional base component.
-   5. This is the project video link - https://www.awesomescreenshot.com/video/18482292?key=d8a19ae219ab0efe0f0ea8f3cea1e8c6
+   5. This is the project video link - https://www.awesomescreenshot.com/video/18506907?key=6442f87fea04ba86f105d518ea010070
 
